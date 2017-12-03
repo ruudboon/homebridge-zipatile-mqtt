@@ -1,4 +1,10 @@
 # homebridge-mqtt-temperature
+
+under construction
+--------------------
+this version only contains LUX meter 
+--------------------
+
 Get all zipatile data via MQTT in Homebridge
 
 Installation
