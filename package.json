@@ -1,6 +1,6 @@
 {
   "name": "homebridge-zipatile-mqtt",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A HomeBridge plugin for reading and controlling Zipato Zipatile using the Zipatile MQTT client.",
   "main": "index.js",
   "scripts": {
