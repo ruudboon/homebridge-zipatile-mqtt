@@ -4,7 +4,7 @@ var mqtt = require('mqtt');
 module.exports = function(homebridge) {
   Service = homebridge.hap.Service;
   Characteristic = homebridge.hap.Characteristic;
-  homebridge.registerAccessory("homebridge-zipatile-mgtt", "zipatile-mgtt", AmbientLightLevel);
+  homebridge.registerAccessory("homebridge-zipatile-mqtt", "zipatile-mqtt", AmbientLightLevel);
 }
 
 function AmbientLightLevel(log, config) {
